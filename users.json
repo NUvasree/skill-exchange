@@ -1,0 +1,82 @@
+[
+  {
+    "username": "alice",
+    "email": "alice@mail.com",
+    "skillsOffered": ["Yoga"],
+    "skillsNeeded": ["Design"],
+    "location": "Mumbai",
+    "points": 120
+  },
+  {
+    "username": "bob",
+    "email": "bob@mail.com",
+    "skillsOffered": ["Photography"],
+    "skillsNeeded": ["Web Development"],
+    "location": "Delhi",
+    "points": 80
+  },
+  {
+    "username": "carol",
+    "email": "carol@mail.com",
+    "skillsOffered": ["JavaScript"],
+    "skillsNeeded": ["Cooking"],
+    "location": "Bangalore",
+    "points": 150
+  },
+  {
+    "username": "dan",
+    "email": "dan@mail.com",
+    "skillsOffered": ["Painting"],
+    "skillsNeeded": ["Yoga"],
+    "location": "Chennai",
+    "points": 60
+  },
+  {
+    "username": "emma",
+    "email": "emma@mail.com",
+    "skillsOffered": ["Graphic Design"],
+    "skillsNeeded": ["Photography"],
+    "location": "Hyderabad",
+    "points": 90
+  },
+  {
+    "username": "frank",
+    "email": "frank@mail.com",
+    "skillsOffered": ["Content Writing"],
+    "skillsNeeded": ["Digital Marketing"],
+    "location": "Kolkata",
+    "points": 70
+  },
+  {
+    "username": "grace",
+    "email": "grace@mail.com",
+    "skillsOffered": ["Cooking"],
+    "skillsNeeded": ["JavaScript"],
+    "location": "Pune",
+    "points": 130
+  },
+  {
+    "username": "henry",
+    "email": "henry@mail.com",
+    "skillsOffered": ["Web Development"],
+    "skillsNeeded": ["Painting"],
+    "location": "Ahmedabad",
+    "points": 95
+  },
+  {
+    "username": "irene",
+    "email": "irene@mail.com",
+    "skillsOffered": ["Digital Marketing"],
+    "skillsNeeded": ["Yoga"],
+    "location": "Lucknow",
+    "points": 110
+  },
+  {
+    "username": "jack",
+    "email": "jack@mail.com",
+    "skillsOffered": ["UX Design"],
+    "skillsNeeded": ["Graphic Design"],
+    "location": "Jaipur",
+    "points": 100
+  }
+]
