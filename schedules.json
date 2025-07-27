@@ -1,0 +1,82 @@
+[
+  {
+    "user1": "alice",
+    "user2": "bob",
+    "skill": "Photography",
+    "date": "2025-07-27T16:00:00Z",
+    "location": "Online",
+    "status": "scheduled"
+  },
+  {
+    "user1": "carol",
+    "user2": "dan",
+    "skill": "Painting",
+    "date": "2025-07-28T14:00:00Z",
+    "location": "Chennai",
+    "status": "scheduled"
+  },
+  {
+    "user1": "emma",
+    "user2": "grace",
+    "skill": "Cooking",
+    "date": "2025-07-26T10:30:00Z",
+    "location": "Pune",
+    "status": "completed"
+  },
+  {
+    "user1": "frank",
+    "user2": "alice",
+    "skill": "Yoga",
+    "date": "2025-07-25T09:00:00Z",
+    "location": "Mumbai",
+    "status": "completed"
+  },
+  {
+    "user1": "henry",
+    "user2": "carol",
+    "skill": "JavaScript",
+    "date": "2025-07-29T15:00:00Z",
+    "location": "Online",
+    "status": "scheduled"
+  },
+  {
+    "user1": "irene",
+    "user2": "emma",
+    "skill": "Graphic Design",
+    "date": "2025-07-30T13:00:00Z",
+    "location": "Hyderabad",
+    "status": "scheduled"
+  },
+  {
+    "user1": "jack",
+    "user2": "frank",
+    "skill": "Content Writing",
+    "date": "2025-07-27T11:00:00Z",
+    "location": "Kolkata",
+    "status": "completed"
+  },
+  {
+    "user1": "dan",
+    "user2": "irene",
+    "skill": "Digital Marketing",
+    "date": "2025-07-28T17:00:00Z",
+    "location": "Online",
+    "status": "scheduled"
+  },
+  {
+    "user1": "bob",
+    "user2": "jack",
+    "skill": "UX Design",
+    "date": "2025-07-29T10:00:00Z",
+    "location": "Jaipur",
+    "status": "scheduled"
+  },
+  {
+    "user1": "grace",
+    "user2": "henry",
+    "skill": "Web Development",
+    "date": "2025-07-30T14:00:00Z",
+    "location": "Ahmedabad",
+    "status": "completed"
+  }
+]
