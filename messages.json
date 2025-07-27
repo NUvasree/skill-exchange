@@ -1,0 +1,72 @@
+[
+  {
+    "sender": "alice",
+    "receiver": "bob",
+    "message": "Can we meet on Friday at 4 PM?",
+    "timestamp": "2025-07-21T09:30:00Z",
+    "isRead": false
+  },
+  {
+    "sender": "carol",
+    "receiver": "dan",
+    "message": "Thanks for the painting tips!",
+    "timestamp": "2025-07-20T14:00:00Z",
+    "isRead": true
+  },
+  {
+    "sender": "emma",
+    "receiver": "grace",
+    "message": "I need to reschedule our session.",
+    "timestamp": "2025-07-19T16:45:00Z",
+    "isRead": false
+  },
+  {
+    "sender": "frank",
+    "receiver": "alice",
+    "message": "Really enjoyed the yoga lesson!",
+    "timestamp": "2025-07-18T11:20:00Z",
+    "isRead": true
+  },
+  {
+    "sender": "grace",
+    "receiver": "bob",
+    "message": "Can you send me that PDF again?",
+    "timestamp": "2025-07-17T13:00:00Z",
+    "isRead": false
+  },
+  {
+    "sender": "henry",
+    "receiver": "carol",
+    "message": "Need help with React hooks",
+    "timestamp": "2025-07-16T15:30:00Z",
+    "isRead": false
+  },
+  {
+    "sender": "irene",
+    "receiver": "emma",
+    "message": "Do you have any more examples?",
+    "timestamp": "2025-07-15T10:30:00Z",
+    "isRead": true
+  },
+  {
+    "sender": "jack",
+    "receiver": "frank",
+    "message": "Can you join our content team Zoom?",
+    "timestamp": "2025-07-14T17:00:00Z",
+    "isRead": true
+  },
+  {
+    "sender": "dan",
+    "receiver": "irene",
+    "message": "Let’s finalize time for session.",
+    "timestamp": "2025-07-13T08:00:00Z",
+    "isRead": true
+  },
+  {
+    "sender": "bob",
+    "receiver": "jack",
+    "message": "Thanks for the UX feedback!",
+    "timestamp": "2025-07-12T11:45:00Z",
+    "isRead": true
+  }
+]
